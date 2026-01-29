@@ -1,0 +1,11 @@
+# Database exports
+*.sql
+grill_database.sql
+
+# WordPress secrets/config
+wp-config.php
+
+# Uploads/cache (normalmente não versionar)
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
