@@ -12,7 +12,13 @@ A WordPress restaurant website built locally on XAMPP for an academic CMS deploy
 - WordPress (local installation)
 - XAMPP (Apache + MySQL + PHP)
 - Theme: Restaurant WDA / Restaurant Elementor (depending on your active theme)
-- Plugins: (list your plugins here)
+- Plugins: 
+   - Akismet
+   - Booking Calendar (WpDevArt) → pasta booking-calendar
+   - Business Hours Indicator → pasta business-hours-indicator
+   - GTranslate → pasta gtranslate
+   - Restaurant Reservations → pasta restaurant-reservations
+   - WP Google Maps → pasta wp-google-maps
 
 ## Local Setup (XAMPP)
 1. Install and start XAMPP (Apache + MySQL).
